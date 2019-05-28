@@ -1,4 +1,4 @@
-FROM tdenecker/fair_bioinfo
+FROM rocker/binder
 
 ## Copies your repo files into the Docker Container
 USER root
